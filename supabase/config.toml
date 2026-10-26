@@ -1,0 +1,5 @@
+project_id = "loop"
+[functions.delete-account]
+verify_jwt = false
+[functions.send-notification]
+verify_jwt = false
